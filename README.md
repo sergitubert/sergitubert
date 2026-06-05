@@ -15,8 +15,8 @@ I build software that solves real world problems with end-to-end ownership
 ## About me
 
 - 🛠️ **7+ years** building full-stack web applications with TypeScript, React, and Node.js
-- ☁️ Deep hands-on experience with the **Azure ecosystem** — App Services, Functions, Service Bus, DevOps, Application Insights
-- 🏗️ Worked with **event-driven architectures** in production, reducing latency and improving fault tolerance
+- ☁️ Hands-on experience with the cloud **Azure ecosystem**
+- 🏗️ Worked with **event-driven architectures** in production
 - 📐 Experienced with **Hexagonal Architecture** and currently exploring **Domain-Driven Design**
 - 🚀 Currently building **Klart** — a React Native focus app for intentional daily planning
 
