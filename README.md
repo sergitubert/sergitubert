@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stubertsabater@gmail.com)
 ---
 
-📍 Barcelona 🇪🇸 ↔ Newcastle Upon Tyne 🇬🇧 
+📍 Barcelona 🇪🇸
 
 *Software Engineer | Node.js • React • Typescript • Azure*
 
