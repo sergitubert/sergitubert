@@ -8,7 +8,7 @@
 
 *Software Engineer | Node.js • React • Typescript • Azure*
 
-I build software that solves real problems with end-to-end ownership 
+I build software that solves real world problems with end-to-end ownership 
 
 ---
 
